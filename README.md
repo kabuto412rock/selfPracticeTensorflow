@@ -1,0 +1,2 @@
+# selfPracticeTensorflow
+參考各種tensorflow官方或者個人創者的code，並自己稍加修改做研究
