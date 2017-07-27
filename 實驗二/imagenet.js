@@ -18,4 +18,5 @@ fs.readFile('ok_urls.json', 'utf8', function (err, data) {
       console.log('errCount = ', errCount)
     })
   }
+  console.log('End... ')
 })
