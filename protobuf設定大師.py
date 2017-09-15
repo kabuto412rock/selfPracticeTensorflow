@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[1]:
-
-
 """
 配置tensorflow_object_detection模型的編譯路徑的腳本程式，
 相當於 protoc object_detection/protos/*.proto --python_out=.
@@ -16,11 +13,6 @@
 """
 import os
 
-
-# In[2]:
-
-
-# 
 proto_list = [
 'anchor_generator.proto',
 'argmax_matcher.proto',
